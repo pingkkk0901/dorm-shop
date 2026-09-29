@@ -1,0 +1,9 @@
+dorm-shop/
+├── index.html
+├── style.css
+├── images/
+│   ├── clear-drawer.jpg
+│   ├── white-cabinet.jpg
+│   └── fold-cabinet.jpg
+├── image-sources.md
+└── README.md
